@@ -1,0 +1,18 @@
+[ 
+ { "user_id": 1, "courses": { "course_name": "Java Script", "measured_at": 32753, "completed_at": "2021-10-26 12:15:44" } },
+ { "user_id": 2, "courses": { "course_name": "Java Script", "measured_at": 63334, "completed_at": "2021-10-26 12:15:44" } },
+ { "user_id": 3, "courses": { "course_name": "Java Script", "measured_at": 33155, "completed_at": "2021-10-26 12:15:44" } },
+ { "user_id": 4, "courses": { "course_name": "Java Script", "measured_at": 77293, "completed_at": "2021-10-26 12:15:44" } },
+ { "user_id": 5, "courses": { "course_name": "Java Script", "measured_at": 76894, "completed_at": "2021-10-26 12:15:44" } },
+ { "user_id": 6, "courses": { "course_name": "Java Script", "measured_at": 28217, "completed_at": "2021-10-26 12:15:44" } }, 
+ { "user_id": 7, "courses": { "course_name": "Java Script", "measured_at": 73590, "completed_at": "2021-10-26 12:15:44" } },
+ { "user_id": 8, "courses": { "course_name": "Java Script", "measured_at": 66978, "completed_at": "2021-10-26 12:15:44" } }, 
+ { "user_id": 9, "courses": { "course_name": "Java Script", "measured_at": 70908, "completed_at": "2021-10-26 12:15:44" } },
+ { "user_id": 10, "courses": { "course_name": "Java Script", "measured_at": 50669, "completed_at": "2021-10-26 12:15:44" } },
+ { "user_id": 11, "courses": { "course_name": "Java Script", "measured_at": 44110, "completed_at": "2021-10-26 12:15:44" } },
+ { "user_id": 12, "courses": { "course_name": "Java Script", "measured_at": 35136, "completed_at": "2021-10-26 12:15:44" } },
+ { "user_id": 13, "courses": { "course_name": "Java Script", "measured_at": 37221, "completed_at": "2021-10-26 12:15:44" } },
+ { "user_id": 14, "courses": { "course_name": "Java Script", "measured_at": 19292, "completed_at": "2021-10-26 12:15:44" } },
+ { "user_id": 15, "courses": { "course_name": "Java Script", "measured_at": 76401, "completed_at": "2021-10-26 12:15:44" } },
+ { "user_id": 16, "courses": { "course_name": "Java Script", "measured_at": 50662, "completed_at": "2021-10-26 12:15:44" } } 
+]
